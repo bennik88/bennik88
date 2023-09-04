@@ -7,7 +7,7 @@ Software Engineer.Product Manager.CTO
 Passionate about leveraging technology to solve complex problems and innovate in the business landscape. Adept at leading teams to create scalable solutions and deliver high-impact projects.
 
 * 🌍  I'm based in Munich
-* 🖥️  See my portfolio at [Film campains I worked on](http://benjaminkratzin.com)
+* 🖥️  Previous work in the commercial industry [Campains I worked on](http://benjaminkratzin.com)
 * 🚀  I'm currently working on [The future of Japanese language translation and insights](http://jayaku.vercel.app/)
 * 🧠  I'm learning Swift, C++
 * 🤝  I'm open to collaborating on Interesting projects that aim to innovate a marked
