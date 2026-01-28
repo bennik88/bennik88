@@ -9,7 +9,7 @@ Passionate about leveraging technology to solve complex problems and innovate in
 * 🌍  I'm based in Munich
 * 🖥️  Previous work in the commercial industry [Campains I worked on](http://benjaminkratzin.com)
 * 🚀  I'm currently working on [The future of Japanese language translation and insights](http://jayaku.vercel.app/)
-* 🧠  I'm learning Swift, C++
+* 🧠  I'm learning Rust, Swift, C++
 * 🤝  I'm open to collaborating on Interesting projects that aim to innovate a marked
 
 ### Skills
